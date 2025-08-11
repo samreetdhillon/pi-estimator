@@ -46,12 +46,7 @@ monte_carlo_pi_realtime(50000, update_interval=50)
 - `simul/`: (Optional) Virtual environment directory.
 
 ## Example Output
-
-
-The script will open a window showing the simulation in real-time, updating the scatter plot and convergence plot as points are generated.
-
 Below is an example output image:
-
 ![Monte Carlo π Example Output](pi%20sample.png)
 
 ---
